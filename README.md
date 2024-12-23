@@ -24,3 +24,5 @@ Or
 ```sh
 npm  install --force
 ```
+
+![alt text](image.png)
